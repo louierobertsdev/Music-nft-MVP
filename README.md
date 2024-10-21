@@ -1,13 +1,4 @@
-# Challenge-1
-
-## Issues
-1. Very slow loading speed in front end
-2. Error occurs when logging in and registering
-
-## Purpose
-
-1. To check how quickly you can access existing projects.
-2. To check your debugging skills and troubleshooting abilities.
+# Music nft marketplace
 
 ## Development environment
 
